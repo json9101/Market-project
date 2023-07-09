@@ -1,0 +1,5 @@
+HOST = '3.35.138.95 '
+USER = 'myname'
+PW = '1234'
+DATABASE = 'mydb'
+PORT = '53686'
